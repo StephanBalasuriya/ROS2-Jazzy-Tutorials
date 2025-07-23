@@ -49,8 +49,8 @@
       <leftFrontJoint>front_left_wheel_joint</leftFrontJoint>
       <!-- TODO: Give the correct joint values -->
       <rightFrontJoint>front_right_wheel_joint</rightFrontJoint>
-      <leftRearJoint></leftRearJoint>
-      <rightRearJoint></rightRearJoint>
+      <leftRearJoint>rear_left_wheel_joint</leftRearJoint>
+      <rightRearJoint>rear_right_wheel_joint</rightRearJoint>
 
       <!-- Replace macros with numeric values if used outside xacro -->
       <wheelSeparation>0.7</wheelSeparation>
